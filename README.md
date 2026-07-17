@@ -1,1 +1,1 @@
-
+This project analyzes the Online Retail dataset to uncover sales trends, customer purchasing behavior, and customer segments using RFM Analysis. The project also explores machine learning techniques for customer segmentation and sales prediction.
